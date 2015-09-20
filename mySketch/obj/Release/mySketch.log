@@ -1,0 +1,18 @@
+﻿  main.cpp
+  ofApp.cpp
+  Generating Code...
+     Creating library bin\mySketch.lib and object bin\mySketch.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  mySketch.vcxproj -> C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\bin\mySketch.exe
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\Assimp32.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\fmodex.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\fmodexL.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\freeglut.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\freeglutD.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\FreeImage.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\FreeType-6.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\glut32.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\libeay32.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\ssleay32.dll
+  C:\HTN\openFrameworks-VS2013\apps\myApps\mySketch\..\..\..\export\vs\Zlib.dll
+  11 File(s) copied
